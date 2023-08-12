@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: nonebot-adapter-console
+Version: 0.4.0
+Summary: console adapter for nonebot2
+Author-Email: RF-Tar-Railt <rf_tar_railt@qq.com>, MelodyKnit <yanximelody@gmail.com>, yanyongyu <yyy@nonebot.dev>
+License: MIT
+Requires-Python: <4.0,>=3.8
+Requires-Dist: nonechat<1.0.0,>=0.2.0
+Requires-Dist: nonebot2<3.0.0,>=2.0.0b1
+Description-Content-Type: text/markdown
+
+# adapter-console

@@ -1,0 +1,34 @@
+from datetime import datetime
+from dataclasses import field, dataclass
+
+from .message import ConsoleMessage
+
+
+@dataclass(frozen=True, eq=True)
+class User:
+    """用户"""
+
+    id: str
+    avatar: str = field(default="👤")
+    nickname: str = field(default="User")
+
+
+@dataclass(frozen=True, eq=True)
+class Robot(User):
+    """机器人"""
+
+    avatar: str = field(default="🤖")
+    nickname: str = field(default="Bot")
+
+
+@dataclass
+class Event:
+    time: datetime
+    self_id: str
+    type: str
+    user: User
+
+
+@dataclass
+class MessageEvent(Event):
+    message: ConsoleMessage
