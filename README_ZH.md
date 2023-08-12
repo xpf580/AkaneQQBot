@@ -4,7 +4,7 @@
 
 ## 使用方法 ##
 
-**可选项**：可以选择不下载`./AkaneENV`,在自己的虚拟环境中，在终端中执行以下命令安装所需依赖：`pip install -r re.txt`
+**可选项**：可以选择不下载`./AkaneENV`,在自己的虚拟环境中，在终端中执行以下命令安装所需依赖：`pip install -r requirements.txt`
 
 进入 `.\chat\myapp` 目录，在 `openai_key.py` 文件中输入你的 OpenAI API 密钥。
 
