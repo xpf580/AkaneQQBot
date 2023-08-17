@@ -34,8 +34,8 @@ def requestApi(msg):
     msg_body = {
         "msg": msg
     }
-    msg_2gpt = 'http://127.0.0.1:8000/chat-api/?msg=' + msg #请以以下性格回答但是不要主动说出你的名字和性格，'+'你的名字是黑川茜，LALALAI剧团年轻头牌，努力天才演员，高挑貌美，蓝眼少女，不喜欢加奈。）
+    msg_2gpt = 'http://127.0.0.1:8000/chat-api/?msg=' + msg
     response = requests.get(msg_2gpt)
     result = json.loads(response.text)
-    text = result['text']['message']['content']
+    text = result['text']  
     return text

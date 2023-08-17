@@ -1,24 +1,26 @@
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .openai_key import key
-import requests
+import openai
 
 openai_secret_key = key
+openai.api_key = openai_secret_key
 
-@api_view(['GET','POST'])
+@api_view(['GET', 'POST'])
 def chat_api(request):
     message = request.GET['msg']
     print(message)
-    headers = {
-        'Content-Type': 'application/json',
-        'Authorization': f'Bearer {openai_secret_key}'
-    }
-    data = {
-        "model": "gpt-3.5-turbo",
-        "messages": [{"role": "user", "content": message}],
-        "temperature": 0.7
-    }
-    response = requests.post('https://api.openai.com/v1/chat/completions', headers=headers, json=data)
-    response_data = response.json()
-    text = response_data["choices"][0]
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo-16k",
+        messages=[
+            {"role": "system", "content": "名为黑川茜，LALALAI剧团年轻头牌，努力天才演员，高挑貌美，蓝眼少女，不喜欢有马加奈。"},
+            {"role": "user", "content": message}
+        ],
+        temperature=1,
+        max_tokens=256,
+        top_p=1,
+        frequency_penalty=0,
+        presence_penalty=0
+    )
+    text = response['choices'][0]['message']['content']
     return Response({'text': text})

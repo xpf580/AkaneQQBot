@@ -1,0 +1,29 @@
+[2023-08-18 02:22:31] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-08-18 02:22:41] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2023-08-18 02:22:41] [WARNING]: 1. 向手机 195*******2 发送短信验证码 
+[2023-08-18 02:22:41] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2023-08-18 02:22:41] [WARNING]: 请输入(1 - 2)： 
+[2023-08-18 02:22:47] [WARNING]: 请输入短信验证码： (Enter 提交) 
+[2023-08-18 02:22:58] [WARNING]: 检查更新失败！ 
+[2023-08-18 02:22:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:23:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:24:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:24:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:24:27] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 02:24:31] [WARNING]: 检查更新失败！ 
+[2023-08-18 02:28:25] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54301->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-18 02:28:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54301->127.0.0.1:51736: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-08-18 02:31:34] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 02:32:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 02:32:28] [WARNING]: 检查更新失败！ 

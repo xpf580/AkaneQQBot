@@ -1,0 +1,2 @@
+websocket-reverse: //127.0.0.1:51736/onebot/v11/ 
+Qsign=//127.0.0.1:19191/
