@@ -8,6 +8,6 @@
 
 1. 进入 `.\chat\myapp` 目录，在 `openai_key.py` 文件中输入你的 OpenAI API 密钥。
 
-2. 进入 `.\go-cqhttp` 目录，在 `config.yml` 文件中输入你的 QQ 账号。无需输入密码。
+2. 进入 `.\go-cqhttp` 目录，在 `config.yml` 文件中输入你的 QQ 账号密码。
 
 3. 在终端中输入 `.\Akane_quick_start.bat` 或直接运行该脚本。这将打开四个 PowerShell 终端，用于在不同的控制台中调试机器人。

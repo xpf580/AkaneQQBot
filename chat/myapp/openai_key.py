@@ -1,1 +1,1 @@
-key = "你的openaikey"
+key = "____"

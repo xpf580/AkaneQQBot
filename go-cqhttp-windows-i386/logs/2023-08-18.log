@@ -27,3 +27,321 @@
 [2023-08-18 02:31:34] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
 [2023-08-18 02:32:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
 [2023-08-18 02:32:28] [WARNING]: 检查更新失败！ 
+[2023-08-18 06:16:17] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:16:24] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:16:31] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:16:38] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:16:45] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:30:21] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 06:30:25] [WARNING]: 检查更新失败！ 
+[2023-08-18 06:30:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:30:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:30:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:30:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:51:56] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 06:52:00] [WARNING]: 检查更新失败！ 
+[2023-08-18 06:52:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:52:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:52:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 06:52:41] [WARNING]: 检查更新失败！ 
+[2023-08-18 06:52:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:52:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:52:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:52:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:53:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:54:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:00] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 06:55:03] [WARNING]: 检查更新失败！ 
+[2023-08-18 06:55:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:55:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:56:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:56:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:56:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:56:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 06:56:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:15:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:15:14] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:15:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:15:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:15:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:15:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:15:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:15:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:17:57] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:18:01] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:18:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:18:49] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:18:52] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:19:27] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-08-18 07:20:03] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:20:07] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:20:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:23:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:23:44] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:23:52] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:04] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:10] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:24:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:24:16] [WARNING]: 尝试重连... 
+[2023-08-18 07:24:16] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:24:28] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:40] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:25:01] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2023-08-18 07:25:30] [ERROR]: Protocol -> sync channel error: Packet failed to sendPacket: connection closed 
+[2023-08-18 07:26:05] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:26:09] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:26:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:17] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:29] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:35] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:26:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:38] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:26:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:41] [WARNING]: 尝试重连... 
+[2023-08-18 07:26:41] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:26:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:26:53] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:05] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:17] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:29] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:35] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:27:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:38] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:27:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:41] [WARNING]: 尝试重连... 
+[2023-08-18 07:27:41] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:27:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:27:53] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:05] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:17] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:29] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:31] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:28:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:34] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:28:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:37] [WARNING]: 尝试重连... 
+[2023-08-18 07:28:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:28:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:49] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:28:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:01] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:13] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:25] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:31] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:29:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:34] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:29:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:37] [WARNING]: 尝试重连... 
+[2023-08-18 07:29:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:29:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:49] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:29:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:30:01] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:30:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:30:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:30:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:30:13] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:30:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:30:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:30:24] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:30:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:30:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:30:48] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53580->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-18 07:30:48] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:30:50] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:46:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:46:16] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:46:24] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:46:36] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:46:40] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:46:43] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:46:46] [WARNING]: 尝试重连... 
+[2023-08-18 07:46:46] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:46:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:47:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:49:34] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:49:41] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:50:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:50:41] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:50:49] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:01] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:07] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:51:10] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:51:13] [WARNING]: 尝试重连... 
+[2023-08-18 07:51:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:51:25] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:37] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:49] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:01] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:07] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:52:10] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:52:13] [WARNING]: 尝试重连... 
+[2023-08-18 07:52:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:52:18] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-08-18 07:52:25] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:37] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:49] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:53:01] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:53:07] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:53:10] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:53:13] [WARNING]: 尝试重连... 
+[2023-08-18 07:53:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:53:29] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:53:41] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:53:53] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:54:05] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:54:11] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:54:14] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:54:17] [WARNING]: 尝试重连... 
+[2023-08-18 07:54:17] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:54:32] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:54:44] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:54:56] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:08] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:14] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:55:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:55:20] [WARNING]: 尝试重连... 
+[2023-08-18 07:55:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:55:32] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:44] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:56] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:08] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:14] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:56:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:56:20] [WARNING]: 尝试重连... 
+[2023-08-18 07:56:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:56:32] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:44] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:56] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:57:08] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:57:14] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:57:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:57:20] [WARNING]: 尝试重连... 
+[2023-08-18 07:57:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:57:32] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:57:44] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:57:56] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:08] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:14] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:58:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:58:20] [WARNING]: 尝试重连... 
+[2023-08-18 07:58:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:58:32] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:44] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:56] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:59:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:59:46] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:59:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:22] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:28] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:00:31] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:00:34] [WARNING]: 尝试重连... 
+[2023-08-18 08:00:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:00:46] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:22] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:28] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:01:31] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:01:34] [WARNING]: 尝试重连... 
+[2023-08-18 08:01:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:01:46] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:22] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:28] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:02:31] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:02:34] [WARNING]: 尝试重连... 
+[2023-08-18 08:02:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:02:46] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:22] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:28] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:03:31] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:03:34] [WARNING]: 尝试重连... 
+[2023-08-18 08:03:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:03:42] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:54] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:06] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:18] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:30] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:36] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:04:39] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:04:42] [WARNING]: 尝试重连... 
+[2023-08-18 08:04:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:04:54] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:05:06] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:05:18] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:44:53] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.3.96:51097->60.29.238.126:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-08-18 08:45:19] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49255->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-18 08:45:53] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:45:57] [WARNING]: 检查更新失败！ 
+[2023-08-18 10:44:22] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.3.96:49870->111.206.149.168:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
