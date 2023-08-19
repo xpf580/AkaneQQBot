@@ -20,7 +20,7 @@ async def handle_function(event: Event):
         match = pattern.match(message.strip())
         if not match:
             # 如果匹配失败则结束命令处理
-            await chatgpt.finish("命令格式错误，请输入GPT/gpt/ai/AI + 需要查询的内容")
+            await chatgpt.finish("未找到命令，使用help查询可用命令或者输入GPT/gpt/ai/AI + 需要查询的内容")
             return
         query = match.group(1)  # 获取正则匹配结果中第一个括号中的内容
         text = requestApi(query)

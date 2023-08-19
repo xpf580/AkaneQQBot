@@ -27,3 +27,194 @@
 [2023-08-18 02:31:34] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
 [2023-08-18 02:32:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
 [2023-08-18 02:32:28] [WARNING]: 检查更新失败！ 
+[2023-08-18 03:39:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 03:40:03] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:20:56] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:21:10] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-18 07:21:26] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:21:29] [WARNING]: 检查更新失败！ 
+[2023-08-18 07:23:42] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:23:54] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:06] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:18] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:30] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:24:36] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:24:39] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:24:42] [WARNING]: 尝试重连... 
+[2023-08-18 07:24:43] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:25:00] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:07] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:19] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:31] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:43] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:26:55] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:01] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:27:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:27:07] [WARNING]: 尝试重连... 
+[2023-08-18 07:27:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:27:19] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:31] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:43] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:27:55] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:01] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:28:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:28:07] [WARNING]: 尝试重连... 
+[2023-08-18 07:28:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:28:19] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:31] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:39] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:51] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:28:57] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:29:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:29:03] [WARNING]: 尝试重连... 
+[2023-08-18 07:29:04] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:29:15] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:27] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:39] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:51] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:29:57] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:30:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:30:03] [WARNING]: 尝试重连... 
+[2023-08-18 07:30:04] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:30:14] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:30:26] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:30:46] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:46:14] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:46:26] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:46:38] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:46:48] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:47:00] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:47:06] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:47:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:47:12] [WARNING]: 尝试重连... 
+[2023-08-18 07:47:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:50:39] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:50:51] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:03] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:15] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:27] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:51:33] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:51:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:51:39] [WARNING]: 尝试重连... 
+[2023-08-18 07:51:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:51:51] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:03] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:15] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:27] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:52:33] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:52:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:52:39] [WARNING]: 尝试重连... 
+[2023-08-18 07:52:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:52:51] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:53:03] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:53:14] [ERROR]: Protocol -> parse incoming packet error: packet dropped 
+[2023-08-18 07:53:14] [WARNING]: Bot已离线: session expired 
+[2023-08-18 07:53:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:53:20] [WARNING]: 尝试重连... 
+[2023-08-18 07:53:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:53:31] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:53:37] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:53:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:53:43] [WARNING]: 尝试重连... 
+[2023-08-18 07:53:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:53:55] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:54:07] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:54:16] [ERROR]: Protocol -> parse incoming packet error: packet dropped 
+[2023-08-18 07:54:16] [WARNING]: Bot已离线: session expired 
+[2023-08-18 07:54:19] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:54:22] [WARNING]: 尝试重连... 
+[2023-08-18 07:54:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:54:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:54:40] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:54:43] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:54:46] [WARNING]: 尝试重连... 
+[2023-08-18 07:54:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:54:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:22] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:55:40] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:55:43] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:55:46] [WARNING]: 尝试重连... 
+[2023-08-18 07:55:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:55:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:22] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:56:40] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:56:43] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:56:46] [WARNING]: 尝试重连... 
+[2023-08-18 07:56:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:56:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:57:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:57:17] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2023-08-18 07:57:17] [WARNING]: Bot已离线: session expired 
+[2023-08-18 07:57:20] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:57:23] [WARNING]: 尝试重连... 
+[2023-08-18 07:57:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:57:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:57:40] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:57:43] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:57:46] [WARNING]: 尝试重连... 
+[2023-08-18 07:57:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:57:58] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:10] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:22] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:58:40] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:58:43] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:58:46] [WARNING]: 尝试重连... 
+[2023-08-18 07:58:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:58:48] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2023-08-18 07:59:18] [ERROR]: Protocol -> sync channel error: Packet failed to sendPacket: connection closed 
+[2023-08-18 07:59:18] [WARNING]: Bot已离线: session expired 
+[2023-08-18 07:59:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 07:59:24] [WARNING]: 尝试重连... 
+[2023-08-18 07:59:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 07:59:36] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:59:48] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 07:59:54] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 07:59:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:00:00] [WARNING]: 尝试重连... 
+[2023-08-18 08:00:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:00:12] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:24] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:36] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:48] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:00:54] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:00:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:01:00] [WARNING]: 尝试重连... 
+[2023-08-18 08:01:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:01:12] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:24] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:36] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:48] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:01:54] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:01:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:02:00] [WARNING]: 尝试重连... 
+[2023-08-18 08:02:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:02:12] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:24] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:36] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:48] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:02:54] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:02:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:03:00] [WARNING]: 尝试重连... 
+[2023-08-18 08:03:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:03:12] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:24] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:36] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:44] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:03:56] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:02] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:04:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:04:08] [WARNING]: 尝试重连... 
+[2023-08-18 08:04:09] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-18 08:04:20] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:32] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:44] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:04:56] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-08-18 08:05:02] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-08-18 08:05:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-08-18 08:05:08] [WARNING]: 尝试重连... 
+[2023-08-18 08:05:09] [WARNING]: Protocol -> device lock is disable. http api may fail. 

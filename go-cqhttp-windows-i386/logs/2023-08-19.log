@@ -1,0 +1,56 @@
+[2023-08-19 08:19:05] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-19 08:19:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 08:19:26] [WARNING]: 检查更新失败！ 
+[2023-08-19 08:24:35] [WARNING]: 连接到签名服务器出现错误: dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-19 08:25:07] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 08:25:11] [WARNING]: 检查更新失败！ 
+[2023-08-19 08:32:15] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 08:32:19] [WARNING]: 检查更新失败！ 
+[2023-08-19 08:35:07] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57366->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-19 08:35:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57366->127.0.0.1:51736: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-08-19 08:35:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 08:35:32] [WARNING]: 检查更新失败！ 
+[2023-08-19 08:36:27] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57694->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-19 08:36:27] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57694->127.0.0.1:51736: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-08-19 08:43:36] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 08:43:40] [WARNING]: 检查更新失败！ 
+[2023-08-19 08:44:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 08:44:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 08:44:41] [WARNING]: 检查更新失败！ 
+[2023-08-19 09:23:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 09:23:15] [WARNING]: 检查更新失败！ 
+[2023-08-19 13:36:44] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-08-19 21:36:40] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 
+[2023-08-19 21:37:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 21:37:24] [WARNING]: 检查更新失败！ 
+[2023-08-19 21:37:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 21:37:59] [WARNING]: 检查更新失败！ 
+[2023-08-19 21:38:53] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65003->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-19 21:38:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65003->127.0.0.1:51736: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-08-19 22:29:41] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 22:29:45] [WARNING]: 检查更新失败！ 
+[2023-08-19 22:37:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 22:37:32] [WARNING]: 检查更新失败！ 
+[2023-08-19 22:40:40] [WARNING]: 恢复会话失败: tlv: message too short , 尝试使用正常流程登录. 
+[2023-08-19 22:40:46] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 22:40:49] [WARNING]: 检查更新失败！ 
+[2023-08-19 22:41:35] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 22:41:39] [WARNING]: 检查更新失败！ 
+[2023-08-19 22:47:09] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 22:47:13] [WARNING]: 检查更新失败！ 
+[2023-08-19 22:49:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 22:49:16] [WARNING]: 检查更新失败！ 
+[2023-08-19 23:37:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 23:37:26] [WARNING]: 检查更新失败！ 
+[2023-08-19 23:37:28] [WARNING]: 警告: 长消息响应延迟为 2106ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2023-08-19 23:37:33] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-08-19 23:38:08] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-08-19 23:52:51] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 23:52:56] [WARNING]: 检查更新失败！ 
+[2023-08-19 23:53:15] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-19 23:53:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-19 23:53:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-19 23:54:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 23:54:33] [WARNING]: 检查更新失败！ 
+[2023-08-19 23:57:56] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-19 23:58:00] [WARNING]: 检查更新失败！ 
