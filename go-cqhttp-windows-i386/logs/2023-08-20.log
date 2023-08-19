@@ -184,3 +184,92 @@
 [2023-08-20 00:46:00] [WARNING]: 群消息发送失败: 账号可能被风控. 
 [2023-08-20 00:46:08] [ERROR]: Protocol -> sendPacket msg error: 120  
 [2023-08-20 00:46:13] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 00:57:07] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 00:57:12] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 00:57:25] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 00:57:30] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 00:57:30] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 00:57:35] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 00:57:35] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 00:57:40] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 00:58:08] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 00:58:13] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:01:00] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:01:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:01:21] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:01:26] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:02:08] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:02:13] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:02:19] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:02:24] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:02:26] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:02:29] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:02:31] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:02:34] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:02:36] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:02:41] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:04:20] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:04:25] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:04:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54797->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-20 01:04:52] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-20 01:04:55] [WARNING]: 检查更新失败！ 
+[2023-08-20 01:05:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-20 01:05:58] [WARNING]: 检查更新失败！ 
+[2023-08-20 01:06:04] [WARNING]: 警告: 聊天服务器延迟为 1063ms，大于 1000ms, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-08-20 01:06:10] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-08-20 01:06:15] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-08-20 01:31:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-20 01:31:57] [WARNING]: 检查更新失败！ 
+[2023-08-20 01:32:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57718->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-20 01:32:42] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57718->127.0.0.1:51736: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-08-20 01:34:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-08-20 01:34:25] [WARNING]: 检查更新失败！ 
+[2023-08-20 01:35:19] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62158->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-08-20 01:35:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62158->127.0.0.1:51736: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-08-20 01:35:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-20 01:35:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-20 01:36:30] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:36:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:37:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:37:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:41:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:41:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:42:13] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:42:14] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:43:15] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:43:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:44:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:44:14] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:44:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-08-20 01:45:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:45:14] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:46:08] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:46:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:47:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:47:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:48:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:48:59] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:49:24] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:49:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:51:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:51:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:51:41] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:51:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:52:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:52:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:55:22] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:55:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:55:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:55:49] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:56:05] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:56:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:57:00] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:57:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:57:51] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:57:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:58:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:58:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 01:58:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 01:58:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-08-20 02:01:22] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-08-20 02:01:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
