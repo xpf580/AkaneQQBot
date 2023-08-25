@@ -36,14 +36,14 @@ async def handle_rxdice(bot: Bot, event: Event):
             random_value = random.random() * dice_num
             random_value = int(random_value)
         
-            if random_value > 0.8 * dice_num:
-                result = f'd {dice_num} 的结果是 {random_value} ，大成功！'
+            if random_value > 0.95 * dice_num:
+                result = f'd {dice_num} 的结果是 {random_value} ，大失败!!'
             elif random_value > 0.5 * dice_num:
-                result = f'd {dice_num} 的结果是 {random_value} ，成功'
-            elif random_value > 0.2 * dice_num:
-                result = f'd {dice_num} 的结果是 {random_value} ，失败'
+                result = f'd {dice_num} 的结果是 {random_value} ，失败!'
+            elif random_value > 0.05 * dice_num:
+                result = f'd {dice_num} 的结果是 {random_value} ，成功!'
             else:
-                result = f'd {dice_num} 的结果是 {random_value} ，大失败!'
+                result = f'd {dice_num} 的结果是 {random_value} ，大成功!!'
             
             result_messages.append(result)
     

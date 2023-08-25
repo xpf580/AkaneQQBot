@@ -13,7 +13,6 @@ def _split_what(what):
     """
     return (
         frozenset(cls for cls in what if isinstance(cls, type)),
-        frozenset(cls for cls in what if isinstance(cls, str)),
         frozenset(cls for cls in what if isinstance(cls, Attribute)),
     )
 
@@ -23,21 +22,14 @@ def include(*what):
     Include *what*.
 
     :param what: What to include.
-    :type what: `list` of classes `type`, field names `str` or
-        `attrs.Attribute`\\ s
+    :type what: `list` of `type` or `attrs.Attribute`\\ s
 
     :rtype: `callable`
-
-    .. versionchanged:: 23.1.0 Accept strings with field names.
     """
-    cls, names, attrs = _split_what(what)
+    cls, attrs = _split_what(what)
 
     def include_(attribute, value):
-        return (
-            value.__class__ in cls
-            or attribute.name in names
-            or attribute in attrs
-        )
+        return value.__class__ in cls or attribute in attrs
 
     return include_
 
@@ -47,20 +39,13 @@ def exclude(*what):
     Exclude *what*.
 
     :param what: What to exclude.
-    :type what: `list` of classes `type`, field names `str` or
-        `attrs.Attribute`\\ s.
+    :type what: `list` of classes or `attrs.Attribute`\\ s.
 
     :rtype: `callable`
-
-    .. versionchanged:: 23.3.0 Accept field name string as input argument
     """
-    cls, names, attrs = _split_what(what)
+    cls, attrs = _split_what(what)
 
     def exclude_(attribute, value):
-        return not (
-            value.__class__ in cls
-            or attribute.name in names
-            or attribute in attrs
-        )
+        return value.__class__ not in cls and attribute not in attrs
 
     return exclude_

@@ -293,3 +293,49 @@
 01:34:17.078181 version@stat F·[1] S·324B[324B] Sc·[0.25]
 01:34:17.278857 db@janitor F·3 G·0
 01:34:17.278857 db@open done T·200.6756ms
+=============== Aug 20, 2023 (CST) ===============
+10:00:55.651021 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:00:55.693755 version@stat F·[1] S·324B[324B] Sc·[0.25]
+10:00:55.693755 db@open opening
+10:00:55.693755 journal@recovery F·1
+10:00:55.693755 journal@recovery recovering @65
+10:00:55.694269 version@stat F·[1] S·324B[324B] Sc·[0.25]
+10:00:56.197060 db@janitor F·3 G·0
+10:00:56.197060 db@open done T·503.3056ms
+=============== Aug 23, 2023 (CST) ===============
+23:45:35.092709 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:45:35.139320 version@stat F·[1] S·324B[324B] Sc·[0.25]
+23:45:35.139822 db@open opening
+23:45:35.139838 journal@recovery F·1
+23:45:35.139838 journal@recovery recovering @67
+23:45:35.279982 memdb@flush created L0@69 N·1 S·309B "\rI\xf6.. \xbf\x1e,v3":"\rI\xf6.. \xbf\x1e,v3"
+23:45:35.279982 version@stat F·[2] S·633B[633B] Sc·[0.50]
+23:45:35.734726 db@janitor F·4 G·0
+23:45:35.734726 db@open done T·594.8982ms
+=============== Aug 26, 2023 (CST) ===============
+02:07:38.598451 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:07:38.608237 version@stat F·[2] S·633B[633B] Sc·[0.50]
+02:07:38.608237 db@open opening
+02:07:38.608923 journal@recovery F·1
+02:07:38.608923 journal@recovery recovering @70
+02:07:38.608923 version@stat F·[2] S·633B[633B] Sc·[0.50]
+02:07:39.223780 db@janitor F·4 G·0
+02:07:39.223780 db@open done T·615.5431ms
+=============== Aug 26, 2023 (CST) ===============
+02:36:14.656946 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:36:14.656946 version@stat F·[2] S·633B[633B] Sc·[0.50]
+02:36:14.658402 db@open opening
+02:36:14.658402 journal@recovery F·1
+02:36:14.659404 journal@recovery recovering @72
+02:36:14.659404 version@stat F·[2] S·633B[633B] Sc·[0.50]
+02:36:14.903875 db@janitor F·4 G·0
+02:36:14.903875 db@open done T·245.4732ms
+=============== Aug 26, 2023 (CST) ===============
+02:37:40.863033 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:37:40.863536 version@stat F·[2] S·633B[633B] Sc·[0.50]
+02:37:40.863536 db@open opening
+02:37:40.863536 journal@recovery F·1
+02:37:40.863536 journal@recovery recovering @74
+02:37:40.864538 version@stat F·[2] S·633B[633B] Sc·[0.50]
+02:37:41.077516 db@janitor F·4 G·0
+02:37:41.077516 db@open done T·213.9803ms
