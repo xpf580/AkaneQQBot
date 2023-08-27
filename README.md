@@ -1,6 +1,6 @@
 # AkaneQQBot
 
-**A complete upgrade to GPTbot, the robot is completely separated from the environment.Thoughtfully built-in signature server.Using OpenAI model="gpt-3.5-turbo-16k" and adding a prompt: "Named Akane Kurochika, a rising star in the LALALAI troupe, a dedicated and talented actress, tall and beautiful, blue-eyed girl, dislikes Arima Kana." Also added some basic plugins. Use the `help` command in QQ to see more.**
+**A complete upgrade to GPTbot, the robot is completely separated from the environment.Thoughtfully built-in signature server.Using OpenAI model="gpt-3.5-turbo-16k" and adding a prompt. Also added some basic plugins. Use the `help` command in QQ to see more.**
 
 ## How to Use
 
