@@ -1,0 +1,53 @@
+[2023-12-28 13:25:51] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-12-28 13:25:52] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-12-28 13:25:53] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2023-12-28 13:25:53] [WARNING]: 1. 向手机 195*******2 发送短信验证码 
+[2023-12-28 13:25:53] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2023-12-28 13:25:53] [WARNING]: 请输入(1 - 2)： 
+[2023-12-28 13:26:04] [WARNING]: 请输入短信验证码： (Enter 提交) 
+[2023-12-28 13:28:50] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-12-28 13:41:18] [WARNING]: 警告: 群 567828211 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-28 13:41:18] [WARNING]: 群 567828211 消息发送失败: 消息为空. 
+[2023-12-28 14:04:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-28 14:04:32] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-28 14:04:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-28 14:04:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-28 14:05:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 14:05:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-28 14:05:57] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-28 14:15:02] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-28 14:15:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-28 14:22:22] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-28 14:22:22] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-28 14:23:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-28 14:23:42] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-28 14:23:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-28 14:23:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-28 14:23:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-28 14:45:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 15:25:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 16:05:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 16:45:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 17:25:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 17:51:06] [WARNING]: 警告: 群 567828211 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-28 17:51:06] [WARNING]: 群 567828211 消息发送失败: 消息为空. 
+[2023-12-28 18:05:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 18:45:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 19:22:02] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-12-28 19:22:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-12-28 19:22:08] [WARNING]: 尝试重连... 
+[2023-12-28 19:22:08] [WARNING]: 快速重连失败: exchange_emp failed: 40 
+[2023-12-28 19:22:08] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-12-28 19:22:10] [WARNING]: 登录失败: 你的账号涉嫌违规被限制在非常用设备登录，请更换常用设备后重新登录并根据提示进行解封。 Code: 45 
+[2023-12-28 19:22:10] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-12-28 19:25:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 19:42:28] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-12-28 19:42:28] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-12-28 19:42:43] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-12-28 19:42:58] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2023-12-28 20:05:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 20:45:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 21:25:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 22:05:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 22:45:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-28 23:25:52] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 

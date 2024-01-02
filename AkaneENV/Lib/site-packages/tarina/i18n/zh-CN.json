@@ -1,0 +1,9 @@
+{
+  "lang": {
+    "scope_error": "'{target}' 不是合法的语种",
+    "type_error": "'{target}' 在 '{scope}' 中不是合法的类型",
+    "name_error": "'{target}' 在 '{scope}:{type}' 不是合法的名称",
+    "miss_require_type": "语言文件 '{scope}' 缺少需求的类型 '{target}'",
+    "miss_require_name": "'{scope}' 的 '{type}' 缺少需求的内容 {target}"
+  }
+}

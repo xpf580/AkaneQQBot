@@ -1,0 +1,180 @@
+[2023-12-29 00:02:35] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 00:02:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 00:05:24] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-12-29 00:05:30] [WARNING]: 恢复会话失败: exchange_emp failed: 40 , 尝试使用正常流程登录. 
+[2023-12-29 00:05:31] [WARNING]: 登录失败: 你的账号涉嫌违规被限制在非常用设备登录，请更换常用设备后重新登录并根据提示进行解封。 Code: 45 
+[2023-12-29 00:05:31] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-12-29 00:07:47] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-12-29 00:07:48] [WARNING]: 登录失败: 你的账号涉嫌违规被限制在非常用设备登录，请更换常用设备后重新登录并根据提示进行解封。 Code: 45 
+[2023-12-29 00:07:48] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-12-29 00:08:40] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-12-29 00:08:45] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-12-29 00:45:15] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:59522->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-12-29 00:45:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59522->127.0.0.1:51736: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-12-29 00:45:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 00:45:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 00:45:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 00:45:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 00:45:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 00:45:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 00:45:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 00:47:52] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 00:47:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 00:48:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 00:48:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 00:48:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 00:48:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 00:48:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 00:49:44] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 00:49:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 00:55:51] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 00:55:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 00:59:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 00:59:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:01:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:01:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:02:08] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:02:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:03:18] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:03:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:04:24] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:04:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:04:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 01:04:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 01:04:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 01:04:54] [WARNING]: 警告: 私聊 1286020114 图片上传失败: image type error: application/octet-stream 
+[2023-12-29 01:10:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:10:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:10:30] [WARNING]: 转换消息 [CQ:image,file={"original": "https://i.pixiv.re/img-original/img/2022/04/22/00/00/13/97785726_p0.png"},type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-12-29 01:12:19] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:12:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:12:36] [WARNING]: 警告: 私聊 1286020114 图片上传失败: image type error: application/octet-stream 
+[2023-12-29 01:15:26] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:15:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:15:37] [WARNING]: 警告: 私聊 1286020114 图片上传失败: image type error: application/octet-stream 
+[2023-12-29 01:16:28] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:16:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:19:26] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:19:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:19:51] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:19:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:23:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:23:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 01:30:17] [WARNING]: 群 567828211 发送消息失败: 账号可能被风控. 
+[2023-12-29 01:33:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:33:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:36:10] [WARNING]: 警告: 群 567828211 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-29 01:36:55] [WARNING]: 群 567828211 发送消息失败: 账号可能被风控. 
+[2023-12-29 01:37:20] [WARNING]: 警告: 群 567828211 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-29 01:37:55] [WARNING]: 警告: 群 809259765 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-29 01:38:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:38:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:38:42] [WARNING]: 群 809259765 发送消息失败: 账号可能被风控. 
+[2023-12-29 01:44:08] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:44:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:46:18] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-12-29 01:46:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-12-29 01:48:15] [WARNING]: 群 809259765 发送消息失败: 账号可能被风控. 
+[2023-12-29 02:08:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 02:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 03:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 04:03:04] [WARNING]: token 已过期, 总丢失 token 次数为 1 
+[2023-12-29 04:03:04] [WARNING]: token 已过期, 总丢失 token 次数为 2 
+[2023-12-29 04:03:04] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 04:03:04] [WARNING]: nil sign-server 
+[2023-12-29 04:05:09] [WARNING]: token 已过期, 总丢失 token 次数为 3 
+[2023-12-29 04:05:09] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 04:05:20] [WARNING]: 警告: 群 809259765 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-29 04:05:20] [WARNING]: token 已过期, 总丢失 token 次数为 4 
+[2023-12-29 04:05:20] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 04:05:26] [WARNING]: 群 809259765 发送消息失败: 账号可能被风控. 
+[2023-12-29 04:06:46] [WARNING]: token 已过期, 总丢失 token 次数为 5 
+[2023-12-29 04:06:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 04:07:46] [WARNING]: nil sign-server 
+[2023-12-29 04:07:49] [WARNING]: 警告: 群 809259765 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-29 04:07:51] [WARNING]: nil sign-server 
+[2023-12-29 04:07:58] [WARNING]: 签名服务器 http://127.0.0.1:19191 可能不可用，请求出现错误：Get "http://127.0.0.1:19191": dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2023-12-29 04:07:58] [ERROR]: 处置WS命令时发生无法恢复的异常：runtime error: invalid memory address or nil pointer dereference
+goroutine 6209 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x83
+github.com/Mrs4s/go-cqhttp/server.(*wsConn).handleRequest.func1()
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:471 +0x4d
+panic({0x1492f60, 0x1990658})
+	runtime/panic.go:884 +0x1b7
+github.com/Mrs4s/go-cqhttp/cmd/gocq.requestSignServer({0x150a71f, 0x4}, {0x150abc7, 0x4}, 0xa99e1c0, {0x15f83b8, 0xa682570})
+	github.com/Mrs4s/go-cqhttp/cmd/gocq/qsign.go:134 +0x3c
+github.com/Mrs4s/go-cqhttp/cmd/gocq.signRequset(0x141a, {0xa4141a0, 0xa}, {0x1514aa9, 0xf}, {0x1521230, 0x1b}, {0xa8a20e0, 0x6f, 0x6f})
+	github.com/Mrs4s/go-cqhttp/cmd/gocq/qsign.go:234 +0x4c9
+github.com/Mrs4s/go-cqhttp/cmd/gocq.sign(0x141a, {0xa4141a0, 0xa}, {0x1514aa9, 0xf}, {0x1521230, 0x1b}, {0xa8a20e0, 0x6f, 0x6f})
+	github.com/Mrs4s/go-cqhttp/cmd/gocq/qsign.go:303 +0x12e
+github.com/Mrs4s/MiraiGo/client/internal/network.(*Transport).PackSecSign(0xa6b80b0, 0xa81d0c8)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/internal/network/transport.go:159 +0xfc
+github.com/Mrs4s/MiraiGo/client/internal/network.(*Transport).packBody(0xa6b80b0, 0xa81d0c8, 0xa8600c0)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/internal/network/transport.go:141 +0x493
+github.com/Mrs4s/MiraiGo/client/internal/network.(*Transport).PackPacket(0xa6b80b0, 0xa81d0c8)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/internal/network/transport.go:217 +0x33a
+github.com/Mrs4s/MiraiGo/client.(*QQClient).uniPacket(0xa6d2000, {0x1514aa9, 0xf}, {0xa8a20e0, 0x6f, 0x6f})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/packet.go:30 +0xa8
+github.com/Mrs4s/MiraiGo/client.(*QQClient).buildGroupInfoRequestPacket(0xa6d2000, 0x303c52f5)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/group_info.go:118 +0x3fb
+github.com/Mrs4s/MiraiGo/client.(*QQClient).GetGroupInfo(0xa6d2000, 0x303c52f5)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/group_info.go:72 +0x35
+github.com/Mrs4s/MiraiGo/client.(*QQClient).sendGroupMessage(0xa6d2000, 0x303c52f5, 0x0, 0xa81d43c)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/group_msg.go:128 +0x609
+github.com/Mrs4s/MiraiGo/client.(*QQClient).SendGroupMessage(0xa6d2000, 0x303c52f5, 0xa81d43c)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230823050531-a8213e127b2b/client/group_msg.go:48 +0xd5
+github.com/Mrs4s/go-cqhttp/coolq.(*CQBot).SendGroupMessage(0xa400000, 0x303c52f5, 0xa81d43c)
+	github.com/Mrs4s/go-cqhttp/coolq/bot.go:305 +0x5b0
+github.com/Mrs4s/go-cqhttp/coolq.(*CQBot).CQSendGroupMessage(0xa400000, 0x303c52f5, {0x5, {0xa678074, 0x13b}, {0x0, 0x0}, 0x0, 0x74, {0x0, ...}}, ...)
+	github.com/Mrs4s/go-cqhttp/coolq/api.go:772 +0x2a2
+github.com/Mrs4s/go-cqhttp/coolq.(*CQBot).CQSendMessage(0xa400000, 0x303c52f5, 0x4ca71c12, {0x5, {0xa678074, 0x13b}, {0x0, 0x0}, 0x0, 0x74, ...}, ...)
+	github.com/Mrs4s/go-cqhttp/coolq/api.go:704 +0x6f
+github.com/Mrs4s/go-cqhttp/modules/api.(*Caller).call(0xa48c720, {0xa67800c, 0x8}, 0x19914e0, {0x15f9498, 0xa6920c0})
+	github.com/Mrs4s/go-cqhttp/modules/api/api.go:50 +0x28b
+github.com/Mrs4s/go-cqhttp/modules/api.(*Caller).Call(0xa48c720, {0xa67800c, 0x8}, 0x19914e0, {0x15f9498, 0xa6920c0})
+	github.com/Mrs4s/go-cqhttp/modules/api/caller.go:35 +0xba
+github.com/Mrs4s/go-cqhttp/server.(*wsConn).handleRequest(0xa60a150, 0xa400000, {0xa678000, 0x1bf, 0x600})
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:480 +0x2bc
+github.com/Mrs4s/go-cqhttp/server.(*websocketClient).listenAPI.func2(0xa60c078)
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:325 +0x9a
+created by github.com/Mrs4s/go-cqhttp/server.(*websocketClient).listenAPI
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:323 +0x190
+ 
+[2023-12-29 04:07:58] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51534->127.0.0.1:51736: use of closed network connection 
+[2023-12-29 04:08:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51534->127.0.0.1:51736: use of closed network connection 
+[2023-12-29 04:08:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 04:09:49] [WARNING]: 群 809259765 发送消息失败: 账号可能被风控. 
+[2023-12-29 04:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 05:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 06:08:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 06:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 06:50:32] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-12-29 07:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 07:59:42] [WARNING]: 转换消息 [CQ:reply,id=308839316] 到MiraiGo Element时出现错误: get value error: leveldb: not found. 
+[2023-12-29 08:08:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 08:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 09:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 10:08:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 10:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 11:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 12:08:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 12:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 13:28:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 14:08:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 14:48:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 15:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 16:08:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 16:48:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 17:12:19] [WARNING]: 警告: 群 567828211 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-12-29 17:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 18:08:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 18:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 19:28:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 20:08:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 20:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 21:28:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 22:08:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 22:48:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-29 23:28:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 

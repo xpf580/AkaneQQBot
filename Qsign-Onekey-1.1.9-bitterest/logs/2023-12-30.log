@@ -1,0 +1,4 @@
+[2023-12-30 00:08:40] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-30 00:48:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-30 01:28:41] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:19191 
+[2023-12-30 01:37:17] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50727->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 

@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: tarina
+Version: 0.4.2
+Summary: A collection of common utils for Arclet
+Author-email: RF-Tar-Railt <rf_tar_railt@qq.com>
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: typing-extensions >=4.4.0
+
+# Tarina
+A collection of common utils for Arclet Projects
+
+
+## Installation
+
+```bash
+pip install tarina
+```
+
+## Usage
+
+```python
+from tarina import generic_isinstance
+from typing import List
+
+assert generic_isinstance([1, 2, 3], List[int])
+```
+
+
+
+## Build from source
+
+```bash
+git clone https://github.com/ArcletProject/Tarina.git
+cd Tarina
+pip install setuptools wheel cibuildwheel==2.12.1
+pip install -r requirements/cython.txt
+make cythonize
+python -m cibuildwheel --output-dir wheelhouse
+```

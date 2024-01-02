@@ -1,0 +1,3 @@
+[nb_scripts]
+localstore=nonebot_plugin_localstore.script:main
+

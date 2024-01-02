@@ -1,4 +1,4 @@
-#!B:\Python_Project\AkaneQQBot\AkaneENV\Scripts\python.exe
+#!D:\Program\python_project\AkaneQQBot\AkaneENV\Scripts\python.exe
 
 import datetime
 import os

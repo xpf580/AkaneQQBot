@@ -1,0 +1,3 @@
+[nb_scripts]
+accctrl=nonebot_plugin_access_control.script:install
+

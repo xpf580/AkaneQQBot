@@ -18,9 +18,10 @@ nonebot.load_builtin_plugins("echo")  # 内置插件
 # nonebot.load_from_toml("pyproject.toml") 
 # nonebot.load_plugin("thirdparty_plugin")  # 第三方插件
 nonebot.load_plugins("AkaneBot/plugins")  # 本地插件
-nonebot.load_plugins("src/plugins")
-# nonebot.load_plugins("AkaneBot/plugins/maimai_plugin")
-# nonebot.load_plugins("AkaneBot/src/plugins")
+nonebot.load_plugin('nonebot_plugin_osubot')
+nonebot.load_plugin('nonebot_plugin_simplemusic')
+
+
 
 if __name__ == "__main__":
     nonebot.run()

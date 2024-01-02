@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: nonebot_plugin_session_orm
+Version: 0.1.1
+Summary: session 插件 orm 扩展
+Home-page: https://github.com/noneplugin/nonebot-plugin-session-orm
+License: MIT
+Author: meetwq
+Author-email: meetwq@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: nonebot-plugin-orm (>=0.3.0,<1.0.0)
+Requires-Dist: nonebot-plugin-session (>=0.2.0,<0.3.0)
+Requires-Dist: nonebot2[fastapi] (>=2.0.1,<3.0.0)
+Project-URL: Repository, https://github.com/noneplugin/nonebot-plugin-session-orm
+Description-Content-Type: text/markdown
+
+# nonebot-plugin-session-orm
+
+为 [session](https://github.com/noneplugin/nonebot-plugin-session) 提供数据库模型及存取方法
+
+
+### 安装
+
+- 使用 nb-cli
+
+```
+nb plugin install nonebot_plugin_session_orm
+```
+
+- 使用 pip
+
+```
+pip install nonebot_plugin_session_orm
+```
+
+### 使用
+
+```python
+from nonebot import require
+
+require("nonebot_plugin_session_orm")
+
+from nonebot_plugin_session import EventSession
+from nonebot_plugin_session_orm import get_session_persist_id, get_session_by_persist_id
+
+@matcher.handle()
+async def handle(session: EventSession):
+    persist_id = await get_session_persist_id(session) # 存储 session，返回 persist_id
+    session_loaded = await get_session_by_persist_id(persist_id) # 通过 persist_id 获取 session
+```
+

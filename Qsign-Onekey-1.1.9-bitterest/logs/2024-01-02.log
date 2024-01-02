@@ -1,0 +1,19 @@
+[2024-01-02 20:30:49] [WARNING]: 签名服务器 http://127.0.0.1:19191 可能不可用，请求出现错误：Get "http://127.0.0.1:19191": dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2024-01-02 20:30:49] [WARNING]: no usable sign server 
+[2024-01-02 20:30:49] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-01-02 20:31:04] [WARNING]: 签名服务器 http://127.0.0.1:19191 可能不可用，请求出现错误：Get "http://127.0.0.1:19191": dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2024-01-02 20:31:04] [WARNING]: no usable sign server 
+[2024-01-02 20:31:04] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-01-02 20:31:04] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-01-02 20:31:45] [WARNING]: 签名服务器 http://127.0.0.1:19191 可能不可用，请求出现错误：Get "http://127.0.0.1:19191": dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2024-01-02 20:31:45] [WARNING]: no usable sign server 
+[2024-01-02 20:31:45] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-01-02 20:31:46] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-01-02 20:36:36] [WARNING]: 签名服务器 http://127.0.0.1:19191 可能不可用，请求出现错误：Get "http://127.0.0.1:19191": dial tcp 127.0.0.1:19191: connectex: No connection could be made because the target machine actively refused it. 
+[2024-01-02 20:36:36] [WARNING]: no usable sign server 
+[2024-01-02 20:36:36] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-01-02 20:36:37] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-01-02 20:38:34] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2024-01-02 20:38:37] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-01-02 20:41:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-01-02 20:41:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 

@@ -1,0 +1,9 @@
+{
+  "lang": {
+    "scope_error": "'{target}' is not a valid language scope",
+    "type_error": "'{target}' is not a valid type in '{scope}'",
+    "name_error": "'{target}' is not a valid name in '{scope}:{type}'",
+    "miss_require_type": "lang file '{scope}' missed require type '{target}'",
+    "miss_require_name": "'{type}' missed require name {target} in '{scope}'"
+  }
+}
